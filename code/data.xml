@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Nintai Studios</title>
+	<founding-date>September 9, 2020</founding-date>
+	<website>https://github.com/juanuys/presskittie</website>
+	<based-in>Santa Cruz de Tenerife, Spain</based-in>
+	
+	<press-contact>info@nintaistudios.com</press-contact>
+	<address>
+		<line>Tacoronte, Santa Cruz de Tenerife, Spain</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>http://twitter.com/nintaistudios</name>
+			<link>http://twitter.com/nintaistudios</link>
+		</social>
+		<social>
+			<name>http://twitter.com/nintaistudios</name>
+			<link>http://twitter.com/CroixDev</link>
+		</social>
+	</socials>
+
+	<description>
+	A Small Indie Studio from canary islands. We like to make small impactful games
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>Johan Croix, Computer engineer and game developer. He has been making videogames since 2012. His games were awared as 'best videogame' 3 times in a row at CESINF at La Laguna University (2016/2017/2018)</text>
+		</history>
+		<history>
+			<header>After that</header>
+			<text>With a masters degree in videogame development now he's oppting for a phd in AI aplications for content generation in videogames. While he works, part time on his dream games.
+			With the hope of making games his main job,he uses his regular job salary to fund his games.</text>
+		</history>
+	</histories>
+		
+	<trailers>
+		<trailer>
+			<name>Bull et Hell Trailer</name>
+			<youtube>XcpT5NVX3xc</youtube>
+		</trailer>
+		<trailer>
+			<name>Get Ogre It Trailer</name>
+			<youtube>SIje6Z7S2dI</youtube>
+		</trailer>
+	</trailers>
+	<!--
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	-->
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<!--																		 	
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+	-->
+	<credits>
+		<credit>
+			<person>Johan Croix</person>
+			<role>Game Designer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Alejandro Maciá</person>
+			<website>https://maciamusic.com/acerca-de/</website>
+			<role>Music, Freelancer</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>info@nintaistudios.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/nintaistudios</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://nintaistudios.com</link>
+		</contact>
+	</contacts>
+</game>

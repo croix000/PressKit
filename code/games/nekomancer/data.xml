@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Nekomancer</title>
+	<release-date>15 Nov, 2023</release-date>
+	<website>http://www.nintaistudios.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Steam</name>
+		</platform>
+		<platform>
+			<name>Nintendo Switch</name>
+		</platform>
+		<platform>
+			<name>Playstation</name>
+		</platform>
+		<platform>
+			<name>Xbox</name>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>TBA</value>
+		</price>
+		<!--<price>
+			<currency>EUR</currency>
+			<value>€9.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$9.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£9.29</value>
+		</price>-->
+	</prices>
+
+	<description>
+	Summon a powerful army of feline minions to do your bidding in this tactical, roguelike card-battler. Explore randomly generated dungeons and build powerful combos to fight off hordes of evil. Can you survive these challenges and become the ultimate Nekomancer?
+	</description>
+	
+	<history>
+	Play as a clever cat mage with the brilliant ability to summon other cats to your side. Use your skills in feline manipulation to battle enemy cat summoners, known as "Nekomancers". 
+
+    Taking place in world where humans are able to use "Nekos" for their own benefit, as the only sentient cat alive it's up to you to uncover the mysterious origins of your kind in this colourful, cat-filled fantasy world.
+	</history>
+
+	<features>
+		<feature>As you progress through the game, you'll have the opportunity to build your own deck of cards, each with unique abilities and powers. Choose your cards carefully to create a balanced and effective strategy.</feature>
+		<feature>In Nekomancer, each dungeon run is different, with randomly generated levels and challenges. This means that you'll need to adapt to each new situation and use your skills to survive.</feature>
+		<feature>In addition to your deck of cards, you'll also be able to summon a variety of feline companions to fight by your side. Each cat has its own unique abilities, and you can upgrade them as you progress through the game.</feature>
+		<feature>As you explore the dungeon, you'll encounter powerful boss monsters that will test your skills and strategies. Can you defeat these formidable foes and emerge victorious?</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Announcement Trailer</name>
+			<youtube>OppxtKM323I</youtube>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<!--
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>-->
+	</awards>
+	
+	<quotes><!--
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://example.org</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://example.org</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://example.org</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://example.org</link>
+		</quote>-->
+	</quotes>
+	
+	<additionals>
+		<!--<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>-->
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Johan Croix</person>
+			<role>Game Designer, Programmer</role>
+		</credit>
+		<credit>
+			<person>Alejandro Maciá</person>
+			<website>https://maciamusic.com/acerca-de/</website>
+			<role>Music, Freelancer</role>
+		</credit>
+	</credits>
+</game>
